@@ -1,0 +1,32 @@
+E:\Lessons\C#\Fencrypt\Fencrypt\obj\Debug\Fencrypt.csprojAssemblyReference.cache
+E:\Lessons\C#\Fencrypt\Fencrypt\obj\Debug\Fencrypt.Properties.Resources.resources
+E:\Lessons\C#\Fencrypt\Fencrypt\obj\Debug\Fencrypt.csproj.GenerateResource.cache
+E:\Lessons\C#\Fencrypt\Fencrypt\obj\Debug\Fencrypt.csproj.CoreCompileInputs.cache
+E:\Lessons\C#\Fencrypt\Fencrypt\bin\Debug\Fencrypt.exe.config
+E:\Lessons\C#\Fencrypt\Fencrypt\bin\Debug\Fencrypt.exe
+E:\Lessons\C#\Fencrypt\Fencrypt\bin\Debug\Fencrypt.pdb
+E:\Lessons\C#\Fencrypt\Fencrypt\obj\Debug\Fencrypt.MainForm.resources
+E:\Lessons\C#\Fencrypt\Fencrypt\obj\Debug\Fencrypt.exe
+E:\Lessons\C#\Fencrypt\Fencrypt\obj\Debug\Fencrypt.pdb
+E:\Lessons\C#\Fencrypt\Fencrypt\bin\Debug\Crypto.dll
+E:\Lessons\C#\Fencrypt\Fencrypt\bin\Debug\Crypto.pdb
+E:\Lessons\C#\Fencrypt\Fencrypt\obj\Debug\Fencrypt.csproj.CopyComplete
+E:\Lessons\C#\Fencrypt\Fencrypt\obj\Debug\Fencrypt.KeyForm.resources
+E:\Lessons\C#\Fencrypt\Fencrypt\obj\Debug\Fencrypt.MessageForm.resources
+E:\Lessons\C#\Fencrypt\Fencrypt\obj\Debug\Fencrypt.PictureMessageForm.resources
+D:\Lessons\Третий курс (второй семестр)\Крипта\Fencrypt\Fencrypt\bin\Debug\Fencrypt.exe.config
+D:\Lessons\Третий курс (второй семестр)\Крипта\Fencrypt\Fencrypt\bin\Debug\Fencrypt.exe
+D:\Lessons\Третий курс (второй семестр)\Крипта\Fencrypt\Fencrypt\bin\Debug\Fencrypt.pdb
+D:\Lessons\Третий курс (второй семестр)\Крипта\Fencrypt\Fencrypt\bin\Debug\Crypto.dll
+D:\Lessons\Третий курс (второй семестр)\Крипта\Fencrypt\Fencrypt\bin\Debug\Crypto.pdb
+D:\Lessons\Третий курс (второй семестр)\Крипта\Fencrypt\Fencrypt\obj\Debug\Fencrypt.csprojAssemblyReference.cache
+D:\Lessons\Третий курс (второй семестр)\Крипта\Fencrypt\Fencrypt\obj\Debug\Fencrypt.MainForm.resources
+D:\Lessons\Третий курс (второй семестр)\Крипта\Fencrypt\Fencrypt\obj\Debug\Fencrypt.KeyForm.resources
+D:\Lessons\Третий курс (второй семестр)\Крипта\Fencrypt\Fencrypt\obj\Debug\Fencrypt.MessageForm.resources
+D:\Lessons\Третий курс (второй семестр)\Крипта\Fencrypt\Fencrypt\obj\Debug\Fencrypt.PictureMessageForm.resources
+D:\Lessons\Третий курс (второй семестр)\Крипта\Fencrypt\Fencrypt\obj\Debug\Fencrypt.Properties.Resources.resources
+D:\Lessons\Третий курс (второй семестр)\Крипта\Fencrypt\Fencrypt\obj\Debug\Fencrypt.csproj.GenerateResource.cache
+D:\Lessons\Третий курс (второй семестр)\Крипта\Fencrypt\Fencrypt\obj\Debug\Fencrypt.csproj.CoreCompileInputs.cache
+D:\Lessons\Третий курс (второй семестр)\Крипта\Fencrypt\Fencrypt\obj\Debug\Fencrypt.csproj.CopyComplete
+D:\Lessons\Третий курс (второй семестр)\Крипта\Fencrypt\Fencrypt\obj\Debug\Fencrypt.exe
+D:\Lessons\Третий курс (второй семестр)\Крипта\Fencrypt\Fencrypt\obj\Debug\Fencrypt.pdb
